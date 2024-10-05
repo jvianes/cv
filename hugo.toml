@@ -1,0 +1,4 @@
+baseURL = 'https://jvianes.github.io/cv/'
+languageCode = 'fr-fr'
+title = 'CV de Joseph Vianes'
+theme = 'resume-a4'
