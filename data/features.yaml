@@ -10,8 +10,8 @@ about:
     - title: mertbakir
       url: https://gitlab.com/mertbakir/
       icon: fab fa-gitlab
-    - title: mertbakir
-      url: https://github.com/mertbakir
+    - title: jvianes
+      url: https://github.com/jvianes
       icon: fab fa-github
   details: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
@@ -43,14 +43,14 @@ interests:
   - Optimization Problems
 
 languages:
-  - name: Turkish
-    level: Native
+  - name: Français
+    level: Natif
 
   - name: English
     level: Professional
-    certificates:
-      - "YDS: 86.25 - 2018"
-      - "TOEFL: 109 - 2021"
+    # certificates:
+    #   - "YDS: 86.25 - 2018"
+    #   - "TOEFL: 109 - 2021"
 
 # This will use the default widget: "details-list"
 awards:
