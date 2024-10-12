@@ -2,3 +2,10 @@ baseURL = 'https://jvianes.github.io/cv/'
 languageCode = 'fr-fr'
 title = 'CV de Joseph Vianes'
 theme = 'resume-a4'
+
+[params]
+_merge = 'deep'
+[[params.pages]]
+[[params.pages.features]]
+feature = "about"
+title = "A propos"
