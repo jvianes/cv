@@ -2,9 +2,11 @@
   roles:
     - role: Chef de projet
       details: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-        Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta. 
-        Nam suscipit nisi a bibendum lacinia. Donec aliquet, nibh dignissim placerat efficit
+        TotalEnergies - Application de gestion de séries de données temporelles avec affichage graphique,
+        intégration à partir de multiples fournisseurs de données
+        TotalEnergies - Application de diffusion temps réel de données vers de multiples systèmes (Excel, Python, Api)
+        TotalEnergies - Application centrale de gestion des opérations / exposition / facturation / ... avec réécriture en web
+        Cegelec - Gestion des factures fournisseurs
       date: 04.2004 -  Present
 
 - company: Aubert & Duval

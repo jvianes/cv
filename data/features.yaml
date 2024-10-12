@@ -32,6 +32,12 @@ skills:
       - JSON / XML
       - ASP.Net / PHP
 
+  - groupName: Cloud
+    list:
+      - Azure / AWS
+      - DevOps / SecDevOps / IaC
+      - Terraform / Checkmarx / Semgrep
+
   - groupName: Bases de données
     list:
       - SQL Server
