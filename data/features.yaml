@@ -21,21 +21,25 @@ about:
 
 
 skills:
-  - groupName: Databases & Visualization
+  - groupName: Programmation
     list:
-      - Grafana - Kibana - PowerBI
-      - InfluxDB - TICK Stack
+      - C# / C++ / Git / WCF
+      - Python
 
-  - groupName: Data Analysis & Analytics
+  - groupName: Web
     list:
-      - Python - R - SQL
-      - Excel - Minitab - SPSS
-      - GAMS - PuLP - OR Tools
+      - HTML / React / CSS / Typescript
+      - JSON / XML
+      - ASP.Net / PHP
 
-  - groupName: Programming & Systems
+  - groupName: Bases de données
     list:
-      - C# - Git - Docker - NGINX
-      - Linux - CentOS RHEL
+      - SQL Server
+
+  - groupName: Système
+    list:
+      - Windows / Powershell
+      - Linux / Nginx / Bash
 
 interests:
   - Data Science
