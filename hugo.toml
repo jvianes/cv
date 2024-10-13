@@ -2,3 +2,111 @@ baseURL = 'https://jvianes.github.io/cv/'
 languageCode = 'fr-fr'
 title = 'CV de Joseph Vianes'
 theme = 'resume-a4'
+
+# [params]
+# _merge = 'deep'
+# [[params.pages]]
+# [[params.pages.features]]
+# feature = "about"
+# title = "A propos"
+
+
+[params]
+useFontAwesome = true
+externalLinkIcon = true
+css = [ "custom.scss" ]
+
+  [params.header]
+  avatar = false
+  contact = true
+  tagline = true
+  links = true
+
+  [[params.side]]
+  feature = "languages"
+  title = "Langues"
+
+  [[params.side]]
+  feature = "skills"
+  title = "Compétences"
+  widget = "word-list"
+  style = "compact"
+
+  [[params.side]]
+  feature = "education"
+  title = "Formation"
+
+  [[params.side]]
+  feature = "interests"
+  title = "Centres d'intérêt"
+  widget = "word-list"
+  style = "list"
+
+  [[params.pages]]
+[[params.pages.features]]
+feature = "about"
+title = "Profil Professionnel"
+
+[[params.pages.features]]
+feature = "experience"
+title = "Expérience Professionnelle"
+
+# Pour faire une deuxième page
+#   [[params.pages]]
+# [[params.pages.features]]
+# feature = "experience"
+# title = "Experience (Cont.)"
+
+# [[params.pages.features]]
+# feature = "projects"
+# collection = "projects"
+
+# [[params.pages.features]]
+# feature = "publications"
+# style = "IEEE"
+
+# [[params.pages.features]]
+# feature = "awards"
+
+# [[params.pages.features]]
+# feature = "certificates"
+# title = "Certifications"
+
+# [[params.pages.features]]
+# feature = "interests"
+# widget = "word-list"
+# style = "list"
+
+[params.experience.tools]
+show = false
+title = "Technologies"
+
+  [params.education]
+  useFontAwesome = true
+  externalLinkIcon = false
+  namePrimary = false
+
+    [params.education.location]
+    show = false
+
+    [params.education.details]
+    show = false
+
+  [params.publications]
+  useFontAwesome = false
+  externalLinkIcon = false
+
+  [params.itemTitle]
+  useFontAwesome = false
+  externalLinkIcon = false
+
+  [params.footer]
+  show = true
+  credits = false
+  footnote = "You can print this resume in A4 size or save as pdf. | Last update on 2020-09-01."
+
+    [[params.footer.links]]
+    prefix = "Check out my"
+    title = "Website"
+    url = "https://jvianes.github.io/about/"
+    icon = "fas fa-globe"
