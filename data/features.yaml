@@ -11,10 +11,8 @@ about:
       url: https://github.com/jvianes
       icon: fab fa-github
   details: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-    Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta.
-
-    Nam suscipit nisi a bibendum lacinia.
+    Spécialisé dans les aspects techniques et les performances
+    Maitrise de multiples langages et compréhension globale des systèmes
 
 
 skills:
@@ -45,7 +43,9 @@ skills:
       - Linux / Nginx / Bash
 
 interests:
-  - Escalade
+  - Escalade / Vélo / Randonnée
+  - CyberSécurité
+  - Lecture
 
 languages:
   - name: Français
