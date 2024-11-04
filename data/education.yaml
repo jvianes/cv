@@ -5,8 +5,10 @@
   link: https://www.isima.fr # Optional field, include a link to your project.
   date: 2000 - 2003
   # gpa: 3.71 / 4.00
-  details: >
-    Spécialisation développement logiciel
+  details: |
+    Ingénieur Informatique
+    
+    Spécialisation Développement Logiciel
 
 - name: Classes Prépa MPSI/MP
   university: Lycée Carnot
