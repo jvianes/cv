@@ -1,8 +1,8 @@
 about:
   name: Joseph Vianes
   tagline: Ingénieur
-  phone: "5070*4****"
-  email: yourmail@yourdomain
+  phone: "+33 6 63 9* ** 67"
+  email: j_vianes __a__ hotmail dot com
   links:
     - title: CV
       url: https://jvianes.github.io/cv
@@ -11,8 +11,9 @@ about:
       url: https://github.com/jvianes
       icon: fab fa-github
   details: |
-    Spécialisé dans les aspects techniques et les performances
-    Maitrise de multiples langages et compréhension globale des systèmes
+    Architecte logiciel et spécialisé dans les aspects techniques ainsi que l'optimisation des systèmes
+    
+    Maitrise de multiples langages, grande adptabilité et résolution de problèmes complexes
 
 
 skills:
