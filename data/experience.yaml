@@ -24,9 +24,9 @@
       tools: Java, C++, HTML
       date: 04.2003 - 10.2003
       details: |
-        Mise en place d'un logiciel de résolution de problème linéaire permettant de doser correctement les métaux
-        utilisés en entrée d'un four, l'objectif étant de produire de la poudre de métal qui est utilisée dans des
-        secteurs de pointe comme l'aéronautique.
+        Mise en place d'un logiciel de résolution de problème linéaire permettant le dosage des métaux
+        en entrée du four de forge afin de produire une poudre de métal personnalisée utilisée comme matière première
+        par les industries métallurgiques de pointe comme l'aéronautique.
         
         Etude des besoins utilisateurs, définition de l'interface graphique et implémentation technique.
 
@@ -37,7 +37,8 @@
       tools: PHP, C++, HTML, MIDI
       date: 04.2002 - 09.2002
       details: |
-        Mise en place d'un site de e-commerce permettant à des musiciens de jouer leurs morceaux de musique
-        à distance sur des synthétiseurs d'exception des années 80 (interface web, paiement et commande à distance des synthétiseurs).
+        Mise en place d'un site de e-commerce permettant via une technologie unique la conversion MIDI -> Audio
+        sur des synthétiseurs d'exception des années 80
+        (interface web, paiement et commande à distance des synthétiseurs).
         
-        Réalisation d'un logiciel de suppression de la voix dans des morceaux de musique grâce à du traitement du signal.
+        Logiciel de suppression de la voix dans des morceaux par traitement du signal.
